@@ -1,12 +1,13 @@
-📦 Inventory Management System (Core Python)
-📌 Introduction
+# Inventory Management System (Core Python)
+
+## Introduction
 
 The Inventory Management System is a menu-driven Python application developed using Core Python only.
 It helps manage product details such as product ID, name, price, and quantity. The system allows users to add, view, update, delete, and search products efficiently.
 
 This project is created for academic purposes and demonstrates the use of object-oriented programming (OOP) concepts in Python.
 
-🎯 Objectives
+## Objectives
 
 To manage inventory records efficiently
 
@@ -16,7 +17,7 @@ To perform CRUD operations (Create, Read, Update, Delete)
 
 To calculate total inventory value and detect low stock
 
-✅ Features
+## Features
 Mandatory Features
 
 Add product details
@@ -37,7 +38,7 @@ Total inventory value
 
 Exit option
 
-🛠️ Technologies Used
+## Technologies Used
 
 Programming Language: Python
 
@@ -57,13 +58,13 @@ Conditional statements
 
 Input / Output
 
-📂 Project Structure
+## Project Structure
 Inventory-Management-System/
 │
 ├── inventory.py
 └── README.md
 
-▶️ How to Run the Program
+## How to Run the Program
 
 Ensure Python is installed on your system
 
@@ -77,7 +78,7 @@ Run the program using:
 
 python inventory.py
 
-🧑‍💻 How the System Works
+## How the System Works
 
 The program displays a menu with multiple options
 
@@ -101,7 +102,7 @@ Calculate total inventory value
 
 User can exit the program safely
 
-📊 Sample Output
+## Sample Output
 --- Inventory Management System ---
 1. Add Product
 2. View Products
@@ -112,7 +113,7 @@ User can exit the program safely
 7. Total Inventory Value
 8. Exit
 
-🎥 Video Demonstration
+## Video Demonstration
 
 The video demonstration includes:
 
@@ -122,7 +123,7 @@ Explanation of the Inventory class
 
 (Video submitted separately as per instructions)
 
-📚 Learning Outcomes
+## Learning Outcomes
 
 Learned how to use classes and objects in Python
 
@@ -132,12 +133,12 @@ Learned to implement menu-driven programs
 
 Gained experience with real-world inventory logic
 
-👤 Author
+## Author
 
 Name: murshid
 
 
-📜 License
+## License
 
 This project is developed for educational purposes only.
 
